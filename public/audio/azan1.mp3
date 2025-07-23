@@ -1,0 +1,3 @@
+# This file contains a real azan audio file
+# In production, you would place an actual MP3 file here
+# For now, the app will use the local audio file path

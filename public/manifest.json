@@ -1,0 +1,35 @@
+{
+  "name": "Mosque Clock - Islamic Prayer Times",
+  "short_name": "Mosque Clock",
+  "description": "Islamic Mosque Clock with Prayer Times - Accurate timings, live countdown and azan audio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#10b981",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "categories": ["religion", "lifestyle", "utilities"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgdmlld0JveD0iMCAwIDE5MiAxOTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxkZWZzPgo8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgo8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMTBiOTgxIi8+CjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzE0YjhhNiIvPgo8L2xpbmVhckdyYWRpZW50Pgo8L2RlZnM+CjxyZWN0IHdpZHRoPSIxOTIiIGhlaWdodD0iMTkyIiByeD0iMjQiIGZpbGw9InVybCgjZ3JhZCkiLz4KPHN2ZyB4PSI0OCIgeT0iNDgiIHdpZHRoPSI5NiIgaGVpZ2h0PSI5NiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+CjxlbGxpcHNlIGN4PSIxMiIgY3k9IjYiIHJ4PSI2IiByeT0iMyIgZmlsbC1vcGFjaXR5PSIwLjkiLz4KPHA+YXRoIGQ9Ik0xMiAyQzguNSAyIDYgMy41IDYgNnYyaDEyVjZjMC0yLjUtMi41LTQtNi00eiIgZmlsbC1vcGFjaXR5PSIwLjk1Ii8+CjxyZWN0IHg9IjMuNSIgeT0iMC41IiB3aWR0aD0iMS41IiBoZWlnaHQ9IjgiIHJ4PSIwLjc1IiBmaWxsLW9wYWNpdHk9IjAuODUiLz4KPHJlY3QgeD0iMTkiIHk9IjAuNSIgd2lkdGg9IjEuNSIgaGVpZ2h0PSI4IiByeD0iMC43NSIgZmlsbC1vcGFjaXR5PSIwLjg1Ii8+CjxyZWN0IHg9IjYiIHk9IjgiIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMSIgcng9IjEuNSIgZmlsbC1vcGFjaXR5PSIwLjkiLz4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMi41IiBmaWxsPSJyZ2JhKDI1NSwyNTUsMjU1LDAuOSkiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjAuMyIvPgo8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIwLjMiLz4KPGxpbmUgeDE9IjEyIiB5MT0iMTIiIHgyPSIxMiIgeTI9IjEwLjIiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjAuNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CjxsaW5lIHgxPSIxMiIgeTE9IjEyIiB4Mj0iMTMuMyIgeTI9IjEyIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIwLjMiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8L3N2Zz4KPC9zdmc+Cg==",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxkZWZzPgo8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgo8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMTBiOTgxIi8+CjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzE0YjhhNiIvPgo8L2xpbmVhckdyYWRpZW50Pgo8L2RlZnM+CjxyZWN0IHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiByeD0iNjQiIGZpbGw9InVybCgjZ3JhZCkiLz4KPHN2ZyB4PSIxMjgiIHk9IjEyOCIgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPgo8ZWxsaXBzZSBjeD0iMTIiIGN5PSI2IiByeD0iNiIgcnk9IjMiIGZpbGwtb3BhY2l0eT0iMC45Ii8+CjxwYXRoIGQ9Ik0xMiAyQzguNSAyIDYgMy41IDYgNnYyaDEyVjZjMC0yLjUtMi41LTQtNi00eiIgZmlsbC1vcGFjaXR5PSIwLjk1Ii8+CjxyZWN0IHg9IjMuNSIgeT0iMC41IiB3aWR0aD0iMS41IiBoZWlnaHQ9IjgiIHJ4PSIwLjc1IiBmaWxsLW9wYWNpdHk9IjAuODUiLz4KPHJlY3QgeD0iMTkiIHk9IjAuNSIgd2lkdGg9IjEuNSIgaGVpZ2h0PSI4IiByeD0iMC43NSIgZmlsbC1vcGFjaXR5PSIwLjg1Ii8+CjxyZWN0IHg9IjYiIHk9IjgiIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMSIgcng9IjEuNSIgZmlsbC1vcGFjaXR5PSIwLjkiLz4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMi41IiBmaWxsPSJyZ2JhKDI1NSwyNTUsMjU1LDAuOSkiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjAuMyIvPgo8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIwLjMiLz4KPGxpbmUgeDE9IjEyIiB5MT0iMTIiIHgyPSIxMiIgeTI9IjEwLjIiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjAuNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CjxsaW5lIHgxPSIxMiIgeTE9IjEyIiB4Mj0iMTMuMyIgeTI9IjEyIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIwLjMiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8L3N2Zz4KPC9zdmc+Cg==",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQwIiBoZWlnaHQ9IjExMzYiIHZpZXdCb3g9IjAgMCA2NDAgMTEzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjY0MCIgaGVpZ2h0PSIxMTM2IiBmaWxsPSIjZjNmNGY2Ii8+Cjx0ZXh0IHg9IjMyMCIgeT0iNTY4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjMTBiOTgxIiBmb250LXNpemU9IjI0IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiI+UHJheWVyIFRpbWVzIEFwcDwvdGV4dD4KPC9zdmc+",
+      "sizes": "640x1136",
+      "type": "image/svg+xml"
+    }
+  ],
+  "prefer_related_applications": false
+}
